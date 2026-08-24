@@ -3,7 +3,7 @@
 
 Zertal Desk es un asistente inteligente de soporte IT que clasifica, diagnostica y escala incidentes técnicos usando IA — inspirado en procesos reales de mesa de ayuda.
 
-Desarrollado para la **CoderCup AI** (Coderhouse) por **Valentín Juárez**.
+Desarrollado para la **CoderCup AI** (Coderhouse) por **Valentín Juarez**.
 
 ---
 
