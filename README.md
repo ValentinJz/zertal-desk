@@ -88,6 +88,7 @@ Red / Internet · VPN · Windows · Linux · Impresoras · Accesos / Cuentas · 
 ## Roadmap
 
 - [ ] Base de datos real (Supabase)
+- [ ] Más idiomas y modo claro/oscuro
 - [ ] RAG sobre la Knowledge Base
 - [ ] Notificaciones por email al escalar
 - [ ] Historial por usuario
